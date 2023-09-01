@@ -2,6 +2,11 @@
 
 Make Jsonpointer(RFC 6901) from js object
 
+# Install
+
+```
+npm i jptr
+```
 
 # Usage
 
